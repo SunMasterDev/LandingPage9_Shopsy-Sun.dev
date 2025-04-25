@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# LandingPage9_Shopsy-Sun.devt
+# LandingPage9_Shopsy-Sun.dev
 เขียนหน้าเว็บ fornt-end ใช้ Vite เป็น EcommerceWeb
 =======
 # React + Vite
